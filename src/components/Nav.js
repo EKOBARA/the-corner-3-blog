@@ -8,7 +8,7 @@ const Nav = () => {
             <Link to="/about">About</Link>
             <Link to='/article'>Article </Link>
             <Link to='/account'>Account </Link>
-            
+
         </nav>
     );
 };
